@@ -14,11 +14,9 @@
         "illuminate/console": "^6.0.0",
         "illuminate/support": "^6.0.0"
     },
-    "minimum-stability": "dev",
-
     "autoload": {
         "psr-4": {
-            "LaraAdmin": "src/"
+            "LaraAdmin\\": "src/"
         }
     },
     "extra": {
