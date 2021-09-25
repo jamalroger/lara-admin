@@ -1,7 +1,5 @@
 # Integrate phpmyadmin in laravel project
-This package can automaclly intergrate phpmyadmin into laravel project,will copy phpmyadmin to public directory
-
-The package will automatically register itself.
+This package can automatically intergrate phpmyadmin into laravel project,will copy phpmyadmin to public directory
 
 ## Installation
 
